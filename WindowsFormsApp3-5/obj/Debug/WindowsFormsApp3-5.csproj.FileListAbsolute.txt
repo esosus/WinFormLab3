@@ -1,0 +1,10 @@
+C:\Users\ekorn\source\repos\WindowsFormsApp3-5\bin\Debug\WindowsFormsApp3-5.exe.config
+C:\Users\ekorn\source\repos\WindowsFormsApp3-5\bin\Debug\WindowsFormsApp3-5.exe
+C:\Users\ekorn\source\repos\WindowsFormsApp3-5\bin\Debug\WindowsFormsApp3-5.pdb
+C:\Users\ekorn\source\repos\WindowsFormsApp3-5\obj\Debug\WindowsFormsApp3-5.csproj.AssemblyReference.cache
+C:\Users\ekorn\source\repos\WindowsFormsApp3-5\obj\Debug\WindowsFormsApp3_5.Form1.resources
+C:\Users\ekorn\source\repos\WindowsFormsApp3-5\obj\Debug\WindowsFormsApp3_5.Properties.Resources.resources
+C:\Users\ekorn\source\repos\WindowsFormsApp3-5\obj\Debug\WindowsFormsApp3-5.csproj.GenerateResource.cache
+C:\Users\ekorn\source\repos\WindowsFormsApp3-5\obj\Debug\WindowsFormsApp3-5.csproj.CoreCompileInputs.cache
+C:\Users\ekorn\source\repos\WindowsFormsApp3-5\obj\Debug\WindowsFormsApp3-5.exe
+C:\Users\ekorn\source\repos\WindowsFormsApp3-5\obj\Debug\WindowsFormsApp3-5.pdb
